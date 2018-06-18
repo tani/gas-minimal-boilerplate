@@ -1,6 +1,6 @@
 # Minimal boilerplate with webpack for Google Apps Script
 
-In 2018 we have so many boilerplate for google apps script but there are too big for daily scripting or make a trivial library. Sine this issue, I made a new boilerplate depends on webpack only. There are no support for latest EcmaScript spec, just EcmaScript5. In the backend Babel is running but just translating to EcmaScript3. If you start scripting with this boilerplate, you can do like this.
+In 2018 we have so many boilerplate for google apps script but there are too big for daily scripting or make a trivial library. Since this issue, I made a new boilerplate depends on webpack only. There are no support for latest EcmaScript7+, we support for EcmaScript5. However, in the backend Babel is running but just translating to EcmaScript3 to run it with Google Apps Script's runtime. If you start scripting with this boilerplate, you can do like this.
 
 ```
 $ npm install
