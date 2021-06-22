@@ -27,7 +27,7 @@
     "babel-webpack-plugin": "0.1.1",
     "copy-webpack-plugin": "5.1.2",
     "gas-webpack-plugin": "2.0.1",
-    "webpack": "4.26.0",
+    "webpack": "4.46.0",
     "webpack-cli": "3.0.6"
   }
 }
