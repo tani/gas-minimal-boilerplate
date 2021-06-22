@@ -24,7 +24,7 @@
   "dependencies": {},
   "devDependencies": {
     "babel-preset-gas": "1.0.1",
-    "babel-webpack-plugin": "0.1.1",
+    "babel-webpack-plugin": "0.1.2",
     "copy-webpack-plugin": "5.1.2",
     "gas-webpack-plugin": "2.0.1",
     "webpack": "4.26.0",
